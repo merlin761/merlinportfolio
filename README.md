@@ -7,4 +7,4 @@ My name is merlin and i graduated back in December of 2024 from SNHU with a degr
 
 # <u>Table of Content</u>
 
-&nbsp;[Google Cybersecurity certificate]("projects")<br/>
+&nbsp;[Google Cybersecurity Certificate Projects]("projects")<br/>
