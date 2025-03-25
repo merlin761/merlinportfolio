@@ -13,4 +13,11 @@
 
 
 [Controls and compliance checklist exemplar](gcprojects/module2/exemplar.html)
- in this project i will exaplain in what areas they are lacking 
+
+
+
+
+
+
+
+[back](./)
