@@ -39,7 +39,7 @@ Linux and SQL where other tools i was able to learned and also how to put it to 
 - Use SQL to retrieve information from a database.
 - Apply filters to SQL queries and use joins to combine multiple tables.
 
-[4) Sound the Alarm: Detection and Response](./gcprojects/SoundtheAlarmDetectionandResponse.html)<br/>
+### [4) Sound the Alarm: Detection and Response](./gcprojects/SoundtheAlarmDetectionandResponse.html)<br/>
 
 This module taught me about:
 - The lifecycle of an incident.
@@ -52,7 +52,7 @@ This module taught me about:
 - Perform queries in Security Information and Event Management (SIEM) tools to investigate an event.
 
 
-[5) Assets, Threats, and Vulnerabilities](./gcprojects/Assets,Threats,andVulnerabilities.html)<br/>
+### [5) Assets, Threats, and Vulnerabilities](./gcprojects/Assets,Threats,andVulnerabilities.html)<br/>
 
 On this module we discussed:
 - Effective data handling processes.
@@ -64,7 +64,7 @@ On this module we discussed:
 - Summarize the threat modeling process.
 
 
-[6) Connect and Protect: Networks and Network Security](./gcprojects/NetworksandNetworkSecurity.html)<br/>
+### [6) Connect and Protect: Networks and Network Security](./gcprojects/NetworksandNetworkSecurity.html)<br/>
 
 By the end of this module i was abe to have a better and more clear understanding of 
 
