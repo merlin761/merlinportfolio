@@ -12,7 +12,11 @@ layout: default
 
 
 the control cat
-[Control categories](gcprojects/Controlcategories.md)<br/>
+&nbsp;[Control categories](gcprojects/Controlcategories.md)<br/>
+
+
+
+&nbsp;[Control categories](./gcprojects/Controlcategories.md)<br/>
 
 
 
@@ -21,7 +25,11 @@ the control cat
 the project i didk
 
 
-[Control and compliance checklist](gcprojects/Controlcategories.html)<br/>
+&nbsp;[Control and compliance checklist](gcprojects/Controlcategories.html)<br/>
+
+
+
+&nbsp;[Control and compliance checklist](,/gcprojects/Controlcategories.html)<br/>
 
 
 
