@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # EPortfolio
 
 ## Welcome to my portfolio
