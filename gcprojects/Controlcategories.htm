@@ -1089,7 +1089,7 @@ mso-bidi-font-family:"Google Sans"'>Physical/Operational controls<o:p></o:p></sp
 
 <p class=MsoNormal style='margin-left:.5in'><span lang=EN style='font-size:
 12.0pt;line-height:115%;font-family:"Google Sans";mso-fareast-font-family:"Google Sans";
-mso-bidi-font-family:"Google Sans"'><span style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+mso-bidi-font-family:"Google Sans"'><span style='mso-spacerun:yes'>Â </span><o:p></o:p></span></p>
 
 <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span lang=EN
 style='font-size:12.0pt;line-height:115%;font-family:"Google Sans";mso-fareast-font-family:
@@ -1137,7 +1137,7 @@ types<o:p></o:p></span></h2>
 <p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%;
 font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
 "Google Sans"'>Control types include, but are not limited to:<span
-style='mso-tab-count:1'>    </span><o:p></o:p></span></p>
+style='mso-tab-count:1'>Â Â Â  </span><o:p></o:p></span></p>
 
 <ol style='margin-top:0in' start=1 type=1>
  <li class=MsoNormal style='mso-list:l1 level1 lfo1'><span lang=EN
@@ -1184,7 +1184,7 @@ of control and its purpose.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%;
 font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
-"Google Sans"'><span style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+"Google Sans"'><span style='mso-spacerun:yes'>Â </span><o:p></o:p></span></p>
 
 <table class=a border=1 cellspacing=0 cellpadding=0 width=624 style='border-collapse:
  collapse;mso-table-layout-alt:fixed;border:none;mso-border-alt:solid black 1.0pt;
@@ -1729,7 +1729,7 @@ font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-fa
   <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
   lang=EN style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
   "Google Sans";mso-bidi-font-family:"Google Sans"'>Deter threats by limiting
-  “hiding” places<o:p></o:p></span></p>
+  Â“hidingÂ” places<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
@@ -1755,7 +1755,7 @@ font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-fa
   <p class=MsoNormal style='line-height:normal;mso-pagination:none'><span
   lang=EN style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
   "Google Sans";mso-bidi-font-family:"Google Sans"'>Closed circuit television
-  is both a preventative and detective control because it’s presence can reduce
+  is both a preventative and detective control because itÂ’s presence can reduce
   risk of certain types of events from occurring, and can be used after an
   event to inform on event conditions<o:p></o:p></span></p>
   </td>
