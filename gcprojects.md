@@ -7,7 +7,7 @@ To start my journey i decided to obtain the Google CyberSecurity certificate whe
 
 On this module i was able to develop skills in Automation where they thought me parse files and structure their contents and also about the different types of debbuging tecniques.
 
-### [2) Play It Safe: Manage Security Risks](./PlayItSafeManageSecurityRisks.html)<br/>
+### [2) Play It Safe: Manage Security Risks](./gcprojects/PlayItSafeManageSecurityRisks.html)<br/>
 
 For module 2 we i learned about the 8 main domains of CyberSecurity, primary threats, risks, vulnerabilities to business operations and the different types of NIST frame works.
 
