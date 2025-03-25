@@ -13,8 +13,22 @@ the control cat
 [Control categories](./gcprojects/Controlcategories.md)
 
 
+
+the control cat
+[Control categories](gcprojects/Controlcategories.md)
+
+
+
+
+
 the project i didkk
 [Control and compliance checklist](./gcprojects/Controlcategories.html)
+
+
+
+[Control and compliance checklist](gcprojects/Controlcategories.html)
+
+
 
 
 
