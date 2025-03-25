@@ -10,7 +10,6 @@ layout: default
 
 
 
-
 [Control categories](./gcprojects/Controlcategories.html)
 
 [Control and compliance checklist](./gcprojects/Controlandcompliancechecklist.html)
@@ -31,8 +30,6 @@ layout: default
 
 
 
-
-
-
+[back](./)
 
 '''''''''''''''''''''''''''''''''''''''''''''''
