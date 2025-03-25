@@ -11,11 +11,9 @@ layout: default
 
 
 
-[Control categories](gcprojects/Controlcategories.md)
+[Control categories](gcprojects/Controlcategories.html)
 
-[Controlandcompliancechecklist](gcprojects/Controlandcompliancechecklist.md)
-
-
+[Controlandcompliancechecklist](gcprojects/Controlandcompliancechecklist.html)
 
 
 
@@ -35,4 +33,6 @@ layout: default
 
 
 
-..................................................
+
+
+...........................................................................................................................................
