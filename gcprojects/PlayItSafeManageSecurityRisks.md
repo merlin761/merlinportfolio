@@ -9,24 +9,19 @@ layout: default
 
 
 
-the control cat
-[Control categories](./gcprojects/Controlcategories.md)
-
 
 
 the control cat
-[Control categories](gcprojects/Controlcategories.md)
+[Control categories](gcprojects/Controlcategories.md)<br/>
 
 
 
 
 
-the project i didkk
-[Control and compliance checklist](./gcprojects/Controlcategories.html)
+the project i didk
 
 
-
-[Control and compliance checklist](gcprojects/Controlcategories.html)
+[Control and compliance checklist](gcprojects/Controlcategories.html)<br/>
 
 
 
