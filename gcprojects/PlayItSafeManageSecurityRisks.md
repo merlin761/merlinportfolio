@@ -34,4 +34,4 @@
 
 
 [Go back to previous menu](./gcprojects.html)
-[Go back to main menue](./index.html)
+[Go back to main menu](./index.html)
