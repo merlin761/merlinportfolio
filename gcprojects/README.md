@@ -14,7 +14,7 @@ On this module i was able to develop skills in Automation where they thought me 
 - Use Python to open and read the contents of a file.
 - Identify best practices to improve code readability.
 
-### [2) Play It Safe: Manage Security Risks](./gcprojects/module2)<br/>
+### [2) Play It Safe: Manage Security Risks](./gcprojects/module2/README.md)<br/>
 
 For module 2  i learned about: 
 
