@@ -7,3 +7,4 @@
 
 
 [Controls and compliance checklist exemplar](gcprojects/module2/exemplar.md)
+ in this project i will exaplain in what areas they are lacking 
