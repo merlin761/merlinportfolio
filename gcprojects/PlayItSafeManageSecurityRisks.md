@@ -10,11 +10,11 @@ layout: default
 
 
 the control cat
-[Control categories](./gcprojects/Controlcategories.md)
+[Control categories](./gcprojects/Controlcategories.html)
 
 
 the project i did
-[Control and compliance checklist](./gcprojects/compliance.md)
+[Control and compliance checklist](./gcprojects/compliance.html)
 
 
 
