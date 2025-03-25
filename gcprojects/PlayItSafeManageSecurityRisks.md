@@ -3,7 +3,7 @@
 
 
 [control categories](gcprojects/Botium-Toys-Scope-goals,-and-risk-assessment-report.html)
-
+[Controlcategories](./gcprojects/Controlcategories.htm)
 
 
 
