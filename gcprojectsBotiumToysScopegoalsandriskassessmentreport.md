@@ -1051,8 +1051,8 @@ report<o:p></o:p></span></h1>
 
 <p class=MsoNormal><!--[if mso & !supportInlineShapes & supportFields]><span
 lang=EN><span style='mso-element:field-begin;mso-field-lock:yes'></span><span
-style='mso-spacerun:yes'> </span>SHAPE <span
-style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span></span><![endif]--><span
+style='mso-spacerun:yes'>Â </span>SHAPE <span
+style='mso-spacerun:yes'>Â </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span></span><![endif]--><span
 lang=EN><!--[if gte vml 1]><v:shapetype id="_x0000_t32" coordsize="21600,21600"
  o:spt="32" o:oned="t" path="m,l21600,21600e" filled="f">
  <v:path arrowok="t" fillok="f" o:connecttype="none"/>
@@ -1150,8 +1150,8 @@ color:black'>Goals:</span></b><span lang=EN style='font-size:12.0pt;line-height:
 mso-bidi-font-family:"Google Sans";color:black'> Assess existing assets and
 complete the controls and compliance checklist to determine which controls and
 compliance best practices need to be implemented <span class=GramE>to<span
-style='mso-spacerun:yes'>  </span>improve</span> <span class=SpellE>Botium</span>
-Toys’ security posture.</span><span lang=EN style='font-family:"Google Sans";
+style='mso-spacerun:yes'>Â  </span>improve</span> <span class=SpellE>Botium</span>
+ToysÂ’ security posture.</span><span lang=EN style='font-family:"Google Sans";
 mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans";
 color:black'><o:p></o:p></span></p>
 
@@ -1170,7 +1170,7 @@ style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Google Sans";mso-fareast-font-family:"Google Sans";
 mso-bidi-font-family:"Google Sans"'>On-premises equipment for in-office
-business needs<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+business needs<span style='mso-spacerun:yes'>Â  </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1'><![if !supportLists]><span
 lang=EN style='font-size:12.0pt;line-height:115%;font-family:"Google Sans";
@@ -1189,7 +1189,7 @@ style='mso-list:Ignore'>&#9679;<span style='font:7.0pt "Times New Roman"'>&nbsp;
 </span></span></span><![endif]><span lang=EN style='font-size:12.0pt;
 line-height:115%;font-family:"Google Sans";mso-fareast-font-family:"Google Sans";
 mso-bidi-font-family:"Google Sans"'>Storefront products available for retail
-sale on site and online; stored in the company’s adjoining warehouse<o:p></o:p></span></p>
+sale on site and online; stored in the companyÂ’s adjoining warehouse<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo1'><![if !supportLists]><span
 lang=EN style='font-size:12.0pt;line-height:115%;font-family:"Google Sans";
@@ -1299,7 +1299,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></spa
 lang=EN style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
 "Google Sans";mso-bidi-font-family:"Google Sans"'>Currently, all <span
 class=SpellE>Botium</span> Toys employees have access to internally stored data
-and may be able to access cardholder data and customers’ PII/SPII.<o:p></o:p></span></p>
+and may be able to access cardholder data and customersÂ’ PII/SPII.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;line-height:normal;
 mso-list:l0 level1 lfo2'><![if !supportLists]><span lang=EN style='font-size:
@@ -1308,8 +1308,8 @@ mso-bidi-font-family:"Google Sans"'><span style='mso-list:Ignore'>&#9679;<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 lang=EN style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
 "Google Sans";mso-bidi-font-family:"Google Sans"'>Encryption is not currently
-used to ensure confidentiality of customers’ credit card information that is
-accepted, processed, transmitted, and stored locally in the company’s internal
+used to ensure confidentiality of customersÂ’ credit card information that is
+accepted, processed, transmitted, and stored locally in the companyÂ’s internal
 database. <o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;line-height:normal;
@@ -1399,7 +1399,7 @@ lang=EN style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-famil
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 lang=EN style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
 "Google Sans";mso-bidi-font-family:"Google Sans"'>There is no centralized
-password management system that enforces the password policy’s minimum
+password management system that enforces the password policyÂ’s minimum
 requirements, which sometimes affects productivity when employees/vendors
 submit a ticket to the IT department to recover or reset a password.<o:p></o:p></span></p>
 
@@ -1419,8 +1419,8 @@ lang=EN style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-famil
 "Google Sans";mso-bidi-font-family:"Google Sans"'><span style='mso-list:Ignore'>&#9679;<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 lang=EN style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
-"Google Sans";mso-bidi-font-family:"Google Sans"'>The store’s physical
-location, which includes <span class=SpellE>Botium</span> Toys’ main offices,
+"Google Sans";mso-bidi-font-family:"Google Sans"'>The storeÂ’s physical
+location, which includes <span class=SpellE>Botium</span> ToysÂ’ main offices,
 store front, and warehouse of products, has sufficient locks, up-to-date
 closed-circuit television (CCTV) surveillance, as well as functioning fire
 detection and prevention systems.<o:p></o:p></span></p>
