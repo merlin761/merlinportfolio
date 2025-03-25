@@ -4,7 +4,7 @@
 
 
 
-[Controlcategories](./gcprojects/Controlcategories.html)
+[Controlcategories](gcprojects/Controlcategories.html)
 
 
 
