@@ -12,7 +12,7 @@ layout: default
 
 [Control categories](./gcprojects/Controlcategories.html)
 
-[Control and compliance checklist](./gcprojects/Controlandcompliancechecklist.html)
+[Control and compliance checklist](./gcprojects/compliance.html)
 
 
 
