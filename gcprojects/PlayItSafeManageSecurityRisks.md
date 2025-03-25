@@ -8,3 +8,6 @@
 
 
 [main project](./gcprojects/modulegoogle.html)
+
+[Go back to previous menu](./gcprojects.html)
+[Go back to main menue](./index.html)
