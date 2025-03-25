@@ -2,11 +2,9 @@
 
 
 
-[control categories](gcprojects/Botium-Toys-Scope-goals,-and-risk-assessment-report.htm)
+[control categories](gcprojects/Botium-Toys-Scope-goals,-and-risk-assessment-report.html)
 
 
 
-
-[main project](./gcprojects/modulegoogle.doc)
 
 
