@@ -2,12 +2,12 @@
 
 
 
-[control categories](./gcprojects/modulegoogle.html)
+[control categories](gcprojects/modulegoogle.doc)
 
 
 
 
-[main project](./gcprojects/modulegoogle.html)
+[main project](./gcprojects/modulegoogle.doc)
 
 
 
