@@ -1,35 +1,14 @@
----
-layout: default
----
-
-
-
 
 ### module 2 portfolio project
 
 
+[Control categories](gcprojects/Controlcategories.pdf)
 
 
-
-the control cat
-&nbsp;[Control categories](gcprojects/Controlcategories.md)<br/>
+[Botium Toys: Scope, goals, and risk assessment report](gcprojects/riskassessment.pdf)
 
 
-
-&nbsp;[Control categories](./gcprojects/Controlcategories.md)<br/>
-
-
-
-
-
-the project i didk
-
-
-&nbsp;[Control and compliance checklist](gcprojects/Controlcategories.html)<br/>
-
-
-
-&nbsp;[Control and compliance checklist](,/gcprojects/Controlcategories.html)<br/>
+[Project](gcprojects/projectc.pdf)
 
 
 
@@ -48,7 +27,3 @@ the project i didk
 
 
 
-
-[back](./)
-
-``````````````````````````
