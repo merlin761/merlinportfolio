@@ -2,4 +2,4 @@
 
 
 
-[control categories](./gcprojects/modulegoogle.docx)
+[control categories](./gcprojects/modulegoogle.html)
