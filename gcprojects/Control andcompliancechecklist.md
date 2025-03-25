@@ -1076,7 +1076,7 @@ mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><o:p><
 
 <p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%;
 font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
-"Google Sans"'>Type an X in the “yes” or “no” column to answer the question: <i
+"Google Sans"'>Type an X in the Â“yesÂ” or Â“noÂ” column to answer the question: <i
 style='mso-bidi-font-style:normal'>Does <span class=SpellE>Botium</span> Toys
 currently have this control in place?<o:p></o:p></i></span></p>
 
@@ -1104,7 +1104,7 @@ mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><o:p><
   mso-pagination:none'><b style='mso-bidi-font-weight:normal'><span lang=EN
   style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
   "Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>  </span>Yes<o:p></o:p></span></b></p>
+  style='mso-spacerun:yes'>Â  </span>Yes<o:p></o:p></span></b></p>
   </td>
   <td width=68 valign=top style='width:51.0pt;border:solid white 1.0pt;
   border-left:none;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
@@ -1112,7 +1112,7 @@ mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><o:p><
   mso-pagination:none'><b style='mso-bidi-font-weight:normal'><span lang=EN
   style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
   "Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>    </span>No<o:p></o:p></span></b></p>
+  style='mso-spacerun:yes'>Â Â Â  </span>No<o:p></o:p></span></b></p>
   </td>
   <td width=215 valign=top style='width:161.25pt;border:solid white 1.0pt;
   border-left:none;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
@@ -1281,7 +1281,7 @@ mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><o:p><
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'>X<span
-  style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â  </span><o:p></o:p></span></p>
   </td>
   <td width=68 valign=top style='width:51.0pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
@@ -1538,7 +1538,7 @@ mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><o:p><
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>       </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=215 valign=top style='width:161.25pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -1591,7 +1591,7 @@ mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><o:p><
   <p class=MsoNormal style='line-height:normal;mso-pagination:none'><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:12.0pt;
   font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
-  "Google Sans"'>The store’s physical location, which includes the company’s
+  "Google Sans"'>The storeÂ’s physical location, which includes the companyÂ’s
   main offices, store front, and warehouse of products, has sufficient locks.<o:p></o:p></span></i></p>
   </td>
  </tr>
@@ -1626,7 +1626,7 @@ mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><o:p><
   <p class=MsoNormal style='line-height:normal;mso-pagination:none'><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:12.0pt;
   font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
-  "Google Sans"'>CCTV is installed/functioning at the store’s physical location.<o:p></o:p></span></i></p>
+  "Google Sans"'>CCTV is installed/functioning at the storeÂ’s physical location.<o:p></o:p></span></i></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15;mso-yfti-lastrow:yes'>
@@ -1663,7 +1663,7 @@ mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><o:p><
   "Google Sans";mso-bidi-font-family:"Google Sans"'>Botium</span></i></span><i
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:12.0pt;
   font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
-  "Google Sans"'> Toys’ physical location has a functioning fire detection and
+  "Google Sans"'> ToysÂ’ physical location has a functioning fire detection and
   prevention system.<o:p></o:p></span></i></p>
   </td>
  </tr>
@@ -1693,7 +1693,7 @@ style='font-size:12.0pt;line-height:115%;font-family:"Google Sans";mso-fareast-f
 
 <p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%;
 font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
-"Google Sans"'>Type an X in the “yes” or “no” column to answer the question: <i
+"Google Sans"'>Type an X in the Â“yesÂ” or Â“noÂ” column to answer the question: <i
 style='mso-bidi-font-style:normal'>Does <span class=SpellE>Botium</span> Toys
 currently adhere to this compliance best practice?<b style='mso-bidi-font-weight:
 normal'><o:p></o:p></b></i></span></p>
@@ -1725,7 +1725,7 @@ Card Industry Data Security Standard (PCI DSS)<o:p></o:p></span></u></p>
   mso-pagination:none'><b style='mso-bidi-font-weight:normal'><span lang=EN
   style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
   "Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>    </span>No<o:p></o:p></span></b></p>
+  style='mso-spacerun:yes'>Â Â Â  </span>No<o:p></o:p></span></b></p>
   </td>
   <td width=217 valign=top style='width:162.75pt;border:solid white 1.0pt;
   border-left:none;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
@@ -1769,7 +1769,7 @@ Card Industry Data Security Standard (PCI DSS)<o:p></o:p></span></u></p>
   <p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%;
   font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
   "Google Sans"'>Only authorized users have access <span class=GramE>to
-  customers’</span> credit card information. <o:p></o:p></span></p>
+  customersÂ’</span> credit card information. <o:p></o:p></span></p>
   </td>
   <td width=260 valign=top style='width:195.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -1778,7 +1778,7 @@ Card Industry Data Security Standard (PCI DSS)<o:p></o:p></span></u></p>
   <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span lang=EN
   style='font-size:12.0pt;line-height:115%;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'>Currently,
-  all employees have access to the company’s internal data.<o:p></o:p></span></i></p>
+  all employees have access to the companyÂ’s internal data.<o:p></o:p></span></i></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
@@ -1795,7 +1795,7 @@ Card Industry Data Security Standard (PCI DSS)<o:p></o:p></span></u></p>
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>       </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=217 valign=top style='width:162.75pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -1815,7 +1815,7 @@ Card Industry Data Security Standard (PCI DSS)<o:p></o:p></span></u></p>
   font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
   "Google Sans"'>Credit card information is not <span class=GramE>encrypted</span>
   and all employees currently have access to internal data, including
-  customers’ credit card information.<o:p></o:p></span></i></p>
+  customersÂ’ credit card information.<o:p></o:p></span></i></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
@@ -1832,7 +1832,7 @@ Card Industry Data Security Standard (PCI DSS)<o:p></o:p></span></u></p>
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>       </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â Â Â Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=217 valign=top style='width:162.75pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -1852,7 +1852,7 @@ Card Industry Data Security Standard (PCI DSS)<o:p></o:p></span></u></p>
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:12.0pt;
   font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
   "Google Sans"'>The company does not currently use encryption to better ensure
-  the confidentiality of customers’ financial information.</span></i><span
+  the confidentiality of customersÂ’ financial information.</span></i><span
   lang=EN style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
   "Google Sans";mso-bidi-font-family:"Google Sans"'><o:p></o:p></span></p>
   </td>
@@ -1871,7 +1871,7 @@ Card Industry Data Security Standard (PCI DSS)<o:p></o:p></span></u></p>
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>        </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=217 valign=top style='width:162.75pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -1926,7 +1926,7 @@ Data Protection Regulation (GDPR)<o:p></o:p></span></u></p>
   mso-pagination:none'><b style='mso-bidi-font-weight:normal'><span lang=EN
   style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
   "Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>    </span>No<o:p></o:p></span></b></p>
+  style='mso-spacerun:yes'>Â Â Â  </span>No<o:p></o:p></span></b></p>
   </td>
   <td width=208 valign=top style='width:156.0pt;border:solid white 1.0pt;
   border-left:none;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
@@ -1972,7 +1972,7 @@ Data Protection Regulation (GDPR)<o:p></o:p></span></u></p>
   padding:5.0pt 5.0pt 5.0pt 5.0pt'>
   <p class=MsoNormal><span lang=EN style='font-size:12.0pt;line-height:115%;
   font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
-  "Google Sans"'>E.U. customers’ data is kept private/secured.<o:p></o:p></span></p>
+  "Google Sans"'>E.U. customersÂ’ data is kept private/secured.<o:p></o:p></span></p>
   </td>
   <td width=268 valign=top style='width:201.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -1982,7 +1982,7 @@ Data Protection Regulation (GDPR)<o:p></o:p></span></u></p>
   style='mso-bidi-font-style:normal'><span lang=EN style='font-size:12.0pt;
   font-family:"Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
   "Google Sans"'>The company does not currently use encryption to better ensure
-  the confidentiality of customers’ financial information.<o:p></o:p></span></i></p>
+  the confidentiality of customersÂ’ financial information.<o:p></o:p></span></i></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
@@ -1991,7 +1991,7 @@ Data Protection Regulation (GDPR)<o:p></o:p></span></u></p>
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>           </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=76 valign=top style='width:57.0pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
@@ -2036,7 +2036,7 @@ Data Protection Regulation (GDPR)<o:p></o:p></span></u></p>
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>         </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=208 valign=top style='width:156.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -2064,7 +2064,7 @@ Data Protection Regulation (GDPR)<o:p></o:p></span></u></p>
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>           </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=76 valign=top style='width:57.0pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
@@ -2129,7 +2129,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Google Sans";mso-fareast-f
   mso-pagination:none'><b style='mso-bidi-font-weight:normal'><span lang=EN
   style='font-size:12.0pt;font-family:"Google Sans";mso-fareast-font-family:
   "Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>    </span>No<o:p></o:p></span></b></p>
+  style='mso-spacerun:yes'>Â Â Â  </span>No<o:p></o:p></span></b></p>
   </td>
   <td width=219 valign=top style='width:164.25pt;border:solid white 1.0pt;
   border-left:none;mso-border-left-alt:solid white 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt'>
@@ -2167,7 +2167,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Google Sans";mso-fareast-f
   <p class=MsoNormal style='margin-left:.25in;text-align:justify;line-height:
   normal;mso-pagination:none'><span lang=EN style='font-size:12.0pt;font-family:
   "Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:
-  "Google Sans"'><span style='mso-spacerun:yes'>   </span>X<o:p></o:p></span></p>
+  "Google Sans"'><span style='mso-spacerun:yes'>Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=219 valign=top style='width:164.25pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -2202,7 +2202,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Google Sans";mso-fareast-f
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>          </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=219 valign=top style='width:164.25pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -2230,7 +2230,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Google Sans";mso-fareast-f
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>   </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=76 valign=top style='width:57.0pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;mso-border-top-alt:
@@ -2273,7 +2273,7 @@ style='font-size:12.0pt;line-height:150%;font-family:"Google Sans";mso-fareast-f
   <p class=MsoNormal style='text-align:justify;line-height:normal;mso-pagination:
   none'><span lang=EN style='font-size:12.0pt;font-family:"Google Sans";
   mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'><span
-  style='mso-spacerun:yes'>           </span>X<o:p></o:p></span></p>
+  style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â  </span>X<o:p></o:p></span></p>
   </td>
   <td width=219 valign=top style='width:164.25pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -2311,20 +2311,20 @@ line-height:150%'><span lang=EN>
 <p class=MsoNormal style='margin-bottom:10.0pt'><b style='mso-bidi-font-weight:
 normal'><span lang=EN style='font-size:12.0pt;line-height:115%;font-family:
 "Google Sans";mso-fareast-font-family:"Google Sans";mso-bidi-font-family:"Google Sans"'>Recommendations
-(optional):<span style='mso-spacerun:yes'>  </span></span></b><span lang=EN
+(optional):<span style='mso-spacerun:yes'>Â  </span></span></b><span lang=EN
 style='font-size:12.0pt;line-height:115%;font-family:"Google Sans";mso-fareast-font-family:
 "Google Sans";mso-bidi-font-family:"Google Sans"'>In this section, provide
 recommendations, related to controls and/or compliance needs, that your IT
 manager could communicate to stakeholders to reduce risks to assets and improve
-<span class=SpellE>Botium</span> Toys’ security posture.</span></p>
+<span class=SpellE>Botium</span> ToysÂ’ security posture.</span></p>
 
 <p class=MsoNormal><i style='mso-bidi-font-style:normal'><span lang=EN
 style='font-size:12.0pt;line-height:115%;font-family:"Google Sans";mso-fareast-font-family:
 "Google Sans";mso-bidi-font-family:"Google Sans"'>Multiple controls need to be
-implemented to improve <span class=SpellE>Botium</span> Toys’ security posture is
+implemented to improve <span class=SpellE>Botium</span> ToysÂ’ security posture is
 very poor, and it needs to be updated promptly the company needs to promptly
 make updates on their least privilege, password management systems, implement
-IDS, secure customers and employee’s data. In addition, they need to create a
+IDS, secure customers and employeeÂ’s data. In addition, they need to create a
 disaster recovery plan.<o:p></o:p></span></i></p>
 
 </div>
