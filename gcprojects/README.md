@@ -3,7 +3,7 @@
 ##  Google Cybersecurity Certificate Projects
 
 
-To start my journey i decided to obtain the Google CyberSecurity certificate where i learned about:!!!!!
+To start my journey i decided to obtain the Google CyberSecurity certificate where i learned about:
 
 ### [1) Automate Cybersecurity Tasks with Python](/module7/README.md)<br/>
 
