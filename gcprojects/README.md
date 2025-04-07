@@ -1,3 +1,5 @@
+[![Generic badge](https://img.shields.io/badge/language-Markdown_\|_HTML-cyan.svg)](https://www.markdownguide.org/)
+
 ##  Google Cybersecurity Certificate Projects
 
 
