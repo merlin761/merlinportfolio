@@ -16,7 +16,7 @@ By the end of this course, you will:
 
 
 
-### [risk assement](gcprojects/module2/riskassesment.md)
+### [risk assement](/riskassesment.html)
 
 
 
@@ -24,7 +24,7 @@ By the end of this course, you will:
 
 
 
-### [Controls and compliance checklist exemplar](/module2/exemplar.md)
+### [Controls and compliance checklist exemplar](gcprojects/module2/exemplar.md)
 
 
 
