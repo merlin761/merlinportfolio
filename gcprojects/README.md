@@ -3,7 +3,7 @@
 
 To start my journey i decided to obtain the Google CyberSecurity certificate where i learned about:
 
-### [1) Automate Cybersecurity Tasks with Python](./gcprojects/AutomateCybersecurityTaskswithPython.html)<br/>
+### [1) Automate Cybersecurity Tasks with Python](./gcprojects/module7/README.html)<br/>
 
 On this module i was able to develop skills in Automation where they thought me parse files and structure their contents and also about the different types of debbuging tecniques. in addition to:
 - How the Python programming language is used in cybersecurity.
