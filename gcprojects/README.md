@@ -5,7 +5,7 @@
 
 To start my journey i decided to obtain the Google CyberSecurity certificate where i learned about:
 
-### [1) Automate Cybersecurity Tasks with Python](./gcprojects/module7/README.html)<br/>
+### [1) Automate Cybersecurity Tasks with Python](./gcprojects/module7/README.md)<br/>
 
 On this module i was able to develop skills in Automation where they thought me parse files and structure their contents and also about the different types of debbuging tecniques. in addition to:
 - How the Python programming language is used in cybersecurity.
@@ -16,7 +16,7 @@ On this module i was able to develop skills in Automation where they thought me 
 - Use Python to open and read the contents of a file.
 - Identify best practices to improve code readability.
 
-### [2) Play It Safe: Manage Security Risks](./gcprojects/module2/README.html)<br/>
+### [2) Play It Safe: Manage Security Risks](./gcprojects/module2/README.md)<br/>
 
 For module 2  i learned about: 
 
@@ -28,7 +28,7 @@ For module 2  i learned about:
 - Explore and practice conducting a security audit.
 - Use a playbook to respond to threats, risks, and vulnerabilities.
 
-### [3) Tools of the Trade: Linux and SQL](./gcprojects/module4/README.html)<br/>
+### [3) Tools of the Trade: Linux and SQL](./gcprojects/module4/README.md)<br/>
 
 Linux and SQL where other tools i was able to learned and also how to put it to work by being able to:
 
@@ -41,7 +41,7 @@ Linux and SQL where other tools i was able to learned and also how to put it to 
 - Use SQL to retrieve information from a database.
 - Apply filters to SQL queries and use joins to combine multiple tables.
 
-### [4) Sound the Alarm: Detection and Response](./gcprojects/module6/index.html)<br/>
+### [4) Sound the Alarm: Detection and Response](./gcprojects/module6/index.md)<br/>
 
 This module taught me about:
 - The lifecycle of an incident.
@@ -54,7 +54,7 @@ This module taught me about:
 - Perform queries in Security Information and Event Management (SIEM) tools to investigate an event.
 
 
-### [5) Assets, Threats, and Vulnerabilities](./gcprojects/module5/index.html)<br/>
+### [5) Assets, Threats, and Vulnerabilities](./gcprojects/module5/index.md)<br/>
 
 On this module we discussed:
 - Effective data handling processes.
@@ -66,7 +66,7 @@ On this module we discussed:
 - Summarize the threat modeling process.
 
 
-### [6) Connect and Protect: Networks and Network Security](./gcprojects/module3/README.html)<br/>
+### [6) Connect and Protect: Networks and Network Security](./gcprojects/module3/README.md)<br/>
 
 By the end of this module i was abe to have a better and more clear understanding of 
 
