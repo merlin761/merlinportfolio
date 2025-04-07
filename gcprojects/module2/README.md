@@ -16,7 +16,7 @@ By the end of this course, you will:
 
 
 
-### [risk assement](/gcprojects/module2/riskassesment.md)
+### [risk assement](gcprojects/module2/riskassesment.md)
 
 
 
