@@ -16,15 +16,15 @@ By the end of this course, you will:
 
 
 
-### [rissk assement](gcprojects/module2/riskassesment.html)
+### [rissk assement](/riskassesment.html)
 
 
 
-### [control categories](gcprojects/module2/Controlcategories.html)
+### [control categories](/Controlcategories.html)
 
 
 
-### [Controls and compliance checklist exemplar](gcprojects/module2/exemplar.html)
+### [Controls and compliance checklist exemplar](/exemplar.html)
 
 
 
