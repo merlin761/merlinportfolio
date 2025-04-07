@@ -9,3 +9,12 @@ By the end of this course, you will:
 - Determine how to read and analyze logs during incident investigation.
 - Interpret the basic syntax and components of signatures and logs in Intrusion Detection Systems (IDS) and Network Intrusion Detection Systems (NIDS) tools.
 - Perform queries in Security Information and Event Management (SIEM) tools to investigate an event.
+
+
+
+
+
+
+
+
+<button onclick="history.back()">Go Back</button>
