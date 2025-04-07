@@ -13,3 +13,11 @@ By the end of this course, you will:
 
 
 ### [Python algorithm](gcprojects/module7/module7.pdf)
+
+
+
+
+
+
+
+<button onclick="history.back()">Go Back</button>
