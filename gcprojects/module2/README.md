@@ -32,4 +32,4 @@ By the end of this course, you will:
 
 
 
-<button onclick="history.back()">Go Back</button>
+[Go back](\\)
