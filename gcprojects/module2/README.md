@@ -16,7 +16,7 @@ By the end of this course, you will:
 
 
 
-### [rissk assement](/riskassesment.html)
+### [rissk assement](/module2/riskassesment.html)
 
 
 
