@@ -12,5 +12,6 @@ By the end of this course, you will:
 - Apply filters to SQL queries and use joins to combine multiple tables.
 
 
-[File permissions in Linux.](gcprojects/module4/module41.pdf)
-[Apply filters to SQL queries](gcprojects/module4/module42.pdf)
+### [File permissions in Linux.](gcprojects/module4/module41.pdf)
+
+### [Apply filters to SQL queries](gcprojects/module4/module42.pdf)
