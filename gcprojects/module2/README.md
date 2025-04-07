@@ -20,11 +20,11 @@ By the end of this course, you will:
 
 
 
-### [control categories](/Controlcategories.html)
+### [control categories](/module2/Controlcategories.html)
 
 
 
-### [Controls and compliance checklist exemplar](/exemplar.html)
+### [Controls and compliance checklist exemplar](/module2/exemplar.html)
 
 
 
