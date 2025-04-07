@@ -1,5 +1,5 @@
 
-### This course takes a deeper dive into concepts introduced in the first course, with an emphasis on recognizing the focus of the CISSP eight security domains, steps of risk management, security frameworks and controls (e.g., NIST, CIA triad, OWASP), as well as common security threats, risks, and vulnerabilities. Additionally, learners are provided with an opportunity to explore and analyze SIEM data, use a playbook to respond to identified threats, risks, and vulnerabilities, and conduct a security audit.
+This course takes a deeper dive into concepts introduced in the first course, with an emphasis on recognizing the focus of the CISSP eight security domains, steps of risk management, security frameworks and controls (e.g., NIST, CIA triad, OWASP), as well as common security threats, risks, and vulnerabilities. Additionally, learners are provided with an opportunity to explore and analyze SIEM data, use a playbook to respond to identified threats, risks, and vulnerabilities, and conduct a security audit.
 
 By the end of this course, you will: 
 - Identify the common threats, risks, and vulnerabilities to business operations.
