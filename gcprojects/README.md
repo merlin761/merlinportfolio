@@ -5,7 +5,7 @@
 
 To start my journey i decided to obtain the Google CyberSecurity certificate where i learned about:
 
-### [1) Automate Cybersecurity Tasks with Python](href="gcprojects/module7/README.md")<br/>
+### [1) Automate Cybersecurity Tasks with Python](gcprojects/module7/README.md)<br/>
 
 On this module i was able to develop skills in Automation where they thought me parse files and structure their contents and also about the different types of debbuging tecniques. in addition to:
 - How the Python programming language is used in cybersecurity.
@@ -16,7 +16,7 @@ On this module i was able to develop skills in Automation where they thought me 
 - Use Python to open and read the contents of a file.
 - Identify best practices to improve code readability.
 
-### [2) Play It Safe: Manage Security Risks](./README.md)<br/>
+### [2) Play It Safe: Manage Security Risks]([module2/README.md](https://github.com/merlin761/merlinportfolio.github.io/tree/9be67dd62611b475ae1e737946dd7297e4d449fe/gcprojects/module2))<br/>
 
 For module 2  i learned about: 
 
