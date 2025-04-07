@@ -16,7 +16,7 @@ On this module i was able to develop skills in Automation where they thought me 
 - Use Python to open and read the contents of a file.
 - Identify best practices to improve code readability.
 
-### [2) Play It Safe: Manage Security Risks]([module2/README.md](https://github.com/merlin761/merlinportfolio.github.io/tree/9be67dd62611b475ae1e737946dd7297e4d449fe/gcprojects/module2))<br/>
+### [2) Play It Safe: Manage Security Risks](/module2/README.md)<br/>
 
 For module 2  i learned about: 
 
@@ -28,7 +28,7 @@ For module 2  i learned about:
 - Explore and practice conducting a security audit.
 - Use a playbook to respond to threats, risks, and vulnerabilities.
 
-### [3) Tools of the Trade: Linux and SQL](./gcprojects/module4/README.md)<br/>
+### [3) Tools of the Trade: Linux and SQL](/module4/README.md)<br/>
 
 Linux and SQL where other tools i was able to learned and also how to put it to work by being able to:
 
@@ -41,7 +41,7 @@ Linux and SQL where other tools i was able to learned and also how to put it to 
 - Use SQL to retrieve information from a database.
 - Apply filters to SQL queries and use joins to combine multiple tables.
 
-### [4) Sound the Alarm: Detection and Response](./gcprojects/module6/index.md)<br/>
+### [4) Sound the Alarm: Detection and Response](/module6/index.md)<br/>
 
 This module taught me about:
 - The lifecycle of an incident.
@@ -54,7 +54,7 @@ This module taught me about:
 - Perform queries in Security Information and Event Management (SIEM) tools to investigate an event.
 
 
-### [5) Assets, Threats, and Vulnerabilities](./gcprojects/module5/index.md)<br/>
+### [5) Assets, Threats, and Vulnerabilities](/module5/index.md)<br/>
 
 On this module we discussed:
 - Effective data handling processes.
@@ -66,7 +66,7 @@ On this module we discussed:
 - Summarize the threat modeling process.
 
 
-### [6) Connect and Protect: Networks and Network Security](./gcprojects/module3/README.md)<br/>
+### [6) Connect and Protect: Networks and Network Security](/module3/README.md)<br/>
 
 By the end of this module i was abe to have a better and more clear understanding of 
 
